@@ -11,6 +11,7 @@
 - Improved casual/competetive rating system
 - Improved animations
 - Add more statistics (total shots, jumps, ...)
+- Make mp_tournament recognise and warn if it's the wrong/automatically load the config for the map
 
 ## Large Content Updates
 - Heavy Update
@@ -29,6 +30,7 @@
 - Limited custom files support (sv_pure)
 - Add discrete Medal Slot
 - Dont lock up chat while scoreboard is shown
+- Don't prevent queueing because a party member is offline
 - Improve assist system
 - Make it possible to transvere strange cosmetic stats independent of cosmetic type
 
