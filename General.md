@@ -13,7 +13,7 @@
 - Add more statistics (total shots, jumps, ...)
 - Make mp_tournament recognise and warn if it's the wrong/automatically load the config for the map
 - Remove random bullet spread 
-- Don't reload the same map you came from after its voted for
+- Reward level-ups somewhat
 
 ## Large Content Updates
 - Heavy Update
@@ -35,6 +35,7 @@
 - Don't prevent queueing because a party member is offline
 - Improve assist system
 - Make it possible to transvere strange cosmetic stats independent of cosmetic type
+- Don't reload the same map you came from after its voted for
 
 ## Bugs
 - fix achivment reset
