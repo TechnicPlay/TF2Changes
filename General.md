@@ -39,6 +39,7 @@
 - Shorten the vote/animation time at the end of every round
 - Or make the map change vote just available when the server is bleeding players (after round)
 - Or just bring back the old vote system
+- Remove cap crits on CTF
 
 ## Bugs
 - fix achivment reset
