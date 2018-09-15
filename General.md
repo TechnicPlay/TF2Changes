@@ -12,6 +12,7 @@
 - Improved animations
 - Add more statistics (total shots, jumps, ...)
 - Make mp_tournament recognise and warn if it's the wrong/automatically load the config for the map
+- Remove random bullet spread 
 
 ## Large Content Updates
 - Heavy Update
