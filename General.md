@@ -38,7 +38,7 @@
 - Don't reload the same map you came from after its voted for
 - Shorten the vote/animation time at the end of every round
 - Or make the map change vote just available when the server is bleeding players (after round)
-- Or just being back the old vote system
+- Or just bring back the old vote system
 
 ## Bugs
 - fix achivment reset
