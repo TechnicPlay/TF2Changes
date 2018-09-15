@@ -36,6 +36,7 @@
 - Improve assist system
 - Make it possible to transvere strange cosmetic stats independent of cosmetic type
 - Don't reload the same map you came from after its voted for
+- Shorten the vote/animation time at the end of every round
 
 ## Bugs
 - fix achivment reset
