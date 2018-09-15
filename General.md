@@ -13,6 +13,7 @@
 - Add more statistics (total shots, jumps, ...)
 - Make mp_tournament recognise and warn if it's the wrong/automatically load the config for the map
 - Remove random bullet spread 
+- Don't reload the same map you came from after its voted for
 
 ## Large Content Updates
 - Heavy Update
