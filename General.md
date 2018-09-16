@@ -40,6 +40,7 @@
 - Or make the map change vote just available when the server is bleeding players (after round)
 - Or just bring back the old vote system
 - Remove cap crits on CTF
+- Add arena-mode + all their maps
 
 ## Bugs
 - fix achivment reset
