@@ -49,6 +49,7 @@
 - fix clipping on models, hats, ... 
 - fix shader glitches (neon saxton)
 - fix Doomsday achievement "Best Case Scenario"
+- fix Spy disguise anomalies (f.e. missing limbs, wrong weapons)
 
 ## Maps
 - fix the spawn kill exploit on pl_upward (third to last spawn)
