@@ -48,6 +48,7 @@
 - fix broken unusual effects
 - fix clipping on models, hats, ... 
 - fix shader glitches (neon saxton)
+- fix Doomsday achievement "Best Case Scenario"
 
 ## Maps
 - fix the spawn kill exploit on pl_upward (third to last spawn)
